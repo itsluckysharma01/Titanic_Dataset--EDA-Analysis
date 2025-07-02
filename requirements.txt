@@ -1,0 +1,27 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.21.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Optional: Enhanced Visualizations
+plotly>=5.0.0
+plotly-express>=0.4.0
+
+# Optional: Statistical Analysis
+scipy>=1.7.0
+statsmodels>=0.13.0
+
+# Optional: Machine Learning (for future extensions)
+scikit-learn>=1.0.0
+
+# Development Tools
+black>=22.0.0
+flake8>=4.0.0
