@@ -14,14 +14,11 @@
 - [🔍 Key Findings](#-key-findings)
 - [📈 Visualizations](#-visualizations)
 - [🛠️ Technologies Used](#️-technologies-used)
-- [📁 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
 - [📊 Analysis Steps](#-analysis-steps)
 - [🎯 Key Insights](#-key-insights)
 - [📝 How to Run](#-how-to-run)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
 ## 🚀 Quick Start
 
 ```bash
