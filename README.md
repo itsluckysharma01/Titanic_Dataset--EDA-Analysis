@@ -1,8 +1,5 @@
 # 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
 
-Hare Checkout:=👉 https://prediction-iris-flower-machine-learning.onrender.com 👈🫡
-
-This web is host on render and checkout https://render.com/ this.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
